@@ -1,6 +1,5 @@
-# flutter_app_with_firebase
+# Movie Ticket Flutter
 
-A new Flutter project.
 
 ## Getting Started
 
